@@ -52,5 +52,3 @@ clientServices
     });
   })
   .catch((error) => alert("Ocurrió un error"));
-
-
